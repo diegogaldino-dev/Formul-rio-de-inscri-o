@@ -5,7 +5,7 @@
     Formulário de inscrição
     </h1>
     <p align="center">Página de inscrição usando HTML e CSS.
-    Este projeto foi feito para um tutorial do youtube, que apeendi a fazer formulario resposivo e utilizando "Label" para fazer os campos dos formularios.</p>
+    Este projeto foi feito para um tutorial do youtube, que apreendi a fazer formulario resposivo e utilizando "Label" para fazer os campos dos formularios.</p>
     <div align="center">
      <img src="assets/img01.gif"/>
     </div>
